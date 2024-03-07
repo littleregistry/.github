@@ -1,3 +1,3 @@
-# 👋👶 Hi, we're Baby Pouch
+# 👋👶 Hi, we're Little Registry
 
-We work on tools and a product discovery platform for modern parents to learn, buy and discover the latest baby and kids products.
+We're building the future of gift registry and wishlists for merchants.
